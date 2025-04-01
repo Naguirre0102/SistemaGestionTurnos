@@ -1,1 +1,7 @@
-
+## Fundamentos del modelo orientado a objetos
+_El modelo orientado a objetos (OO) es un paradigma de programación que organiza el
+software en entidades llamadas objetos, que contienen tanto datos como comportamientos.  
+Este enfoque se basa en cuatro principios fundamentales: encapsulación, abstracción,
+herencia y polimorfismo. Estos conceptos proporcionan una estructura sólida para el diseño
+y desarrollo de sistemas complejos, permitiendo la modularidad, reutilización y
+mantenibilidad del código.._
