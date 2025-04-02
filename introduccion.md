@@ -24,10 +24,17 @@ clases para responder de manera diferente a un mismo mensaje. Esto permite
 escribir código genérico que puede funcionar con varios tipos de objetos,
 promoviendo la flexibilidad y la extensibilidad del sistema.
 
-# Requisitos iniciales del sistema
+### Requisitos iniciales del sistema
 
-# Casos de uso
+### Casos de uso
+(1)   
+* Regitrar Turno
+* Paciente
+* Un paciente solicita un turno
+* Verificar disponibilidad en la agenda del dia
+* Verificar Medico disponible
+* Asignar estado del turno  
 
-# Boceto inicial del diseño de clases
+### Boceto inicial del diseño de clases
 ![Image](https://github.com/user-attachments/assets/f4fbcfb8-1511-4aa6-ac97-d5e359025f6d)
 
