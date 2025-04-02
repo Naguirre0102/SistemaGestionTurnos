@@ -32,7 +32,7 @@ promoviendo la flexibilidad y la extensibilidad del sistema.
 * Registrar historial
 
 ### Casos de uso
-á– Regitrar Turno
+â– Regitrar Turno
 * Paciente
 * Un paciente solicita un turno
 * Verificar disponibilidad en la agenda del dia
