@@ -1,5 +1,4 @@
 # Anexo - Introducción al Diseño Orientado a Objetos
-## Fundamentos del modelo orientado a objetos
 El modelo orientado a objetos (OO) es un paradigma de programación que organiza el
 software en entidades llamadas objetos, que contienen tanto datos como comportamientos.  
 Este enfoque se basa en cuatro principios fundamentales: encapsulación, abstracción,
