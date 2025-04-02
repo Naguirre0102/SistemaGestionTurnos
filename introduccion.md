@@ -25,9 +25,13 @@ escribir código genérico que puede funcionar con varios tipos de objetos,
 promoviendo la flexibilidad y la extensibilidad del sistema.
 
 ### Requisitos iniciales del sistema
+* Asigar un Turno
+* Verificar disponibilidad de un Medico
+* Cambiar turno
+* Enviar notificacion (via mail o mensaje de texto)
+* Registrar historial
 
 ### Casos de uso
-(1)   
 * Regitrar Turno
 * Paciente
 * Un paciente solicita un turno
