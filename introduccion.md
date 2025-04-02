@@ -29,4 +29,5 @@ promoviendo la flexibilidad y la extensibilidad del sistema.
 # Casos de uso
 
 # Boceto inicial del diseño de clases
+![Image](https://github.com/user-attachments/assets/f4fbcfb8-1511-4aa6-ac97-d5e359025f6d)
 
