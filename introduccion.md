@@ -6,7 +6,7 @@ herencia y polimorfismo. Estos conceptos proporcionan una estructura sólida par
 y desarrollo de sistemas complejos, permitiendo la modularidad, reutilización y
 mantenibilidad del código
 
-# Los cuatro fundamentos de POO
+## Los cuatro fundamentos de POO
 - Encapsulación: Es el proceso de ocultar la implementación interna de un objeto y
 exponer sólo las interfaces públicas. Esto permite que los objetos mantengan su
 estado interno protegido de accesos no autorizados, promoviendo así la
